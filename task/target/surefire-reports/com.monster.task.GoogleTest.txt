@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.monster.task.GoogleTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.031 s <<< FAILURE! - in com.monster.task.GoogleTest
+userCanSearch(com.monster.task.GoogleTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	By cannot be resolved
+
+	at com.monster.task.GoogleTest.userCanSearch(GoogleTest.java:13)
+
